@@ -6,7 +6,7 @@ body {
 	color: black;
 	margin: 0 auto;
 	box-sizing: border-box;
-	font-family: Playfair Display;
+	font-family: Playfair Display, sans-serif;
 }
 .menu {
 	display: flex;
